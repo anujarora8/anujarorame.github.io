@@ -1,0 +1,42 @@
+body {
+	margin: 0 0;
+	text-align: center;
+	color: white;
+
+	background-image: url("swag.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: top center;
+
+	font-family: 'Raleway', sans-serif;
+}
+h1 {
+	font-size: 45pt;
+	font-color: black;
+	margin-top: 27vh;
+}
+h2 {
+	font-size: 20pt;
+	font-color: black;
+}
+#qhacks {
+	margin-top: 8vh;
+}
+#social {
+	margin-top: 23vh;
+}
+@media (max-width: 600px) {
+	#qhacks {
+	margin-top: 3vh;
+}
+	h1 {
+	font-color: black;
+}
+	h2 {
+	font-color: black;	
+	}
+		#social {
+			margin-top: 18vh;
+			margin-bottom: 3em;
+		}
+	}
