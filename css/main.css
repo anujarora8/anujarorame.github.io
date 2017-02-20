@@ -1,12 +1,7 @@
 body {
 	margin: 0 0;
 	text-align: center;
-	color: white;
-
-	background-image: url("swag.jpg");
-	background-size: cover;
-	background-attachment: fixed;
-	background-position: top center;
+	color: black;
 
 	font-family: 'Raleway', sans-serif;
 }
